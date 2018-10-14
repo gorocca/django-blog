@@ -25,7 +25,7 @@ SECRET_KEY = '@q3r^j^rg8vg&-ajf!%as)khp)81_!_w(7w0d9!$229&j5nl)%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' goroca.pythonanywhere.com']
 
 
 # Application definition
